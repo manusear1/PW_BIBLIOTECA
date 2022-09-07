@@ -1,0 +1,65 @@
+body{
+    background-color: rgba(241, 241, 241, 0.473);
+}
+#texto2{
+    text-align: center;
+}
+#opa{
+    text-align: justify;
+    font-size: 16px;
+}
+div.vermelho{
+            background-color: red;
+            height: 25px;
+}
+div.preto{
+            background-color: rgb(0, 0, 0);
+            height: 25px;
+        }
+#txtBusca{
+    width: 30%;
+	margin: 0 auto;
+	padding: 10px;
+	border: none;
+	margin-bottom: 10px;
+	border-radius: 50px;
+}
+#buscar{
+    padding: 10px;
+	width: 20%;
+	margin: 0 auto;
+	border-radius: 50px;
+	border: none;
+	text-transform: uppercase;
+	font-weight: 700;
+	cursor: pointer;
+}
+
+.container{
+    background-color: #efefef;
+    border: solid;
+    border-radius: 5vw;
+    border-color: rgb(207, 207, 207);
+    display: flex;
+}
+
+
+
+.cont{
+    padding: 2vw;
+}
+
+.descricao{
+    float: right;
+    padding: 4vw;
+    margin-left: 25vw;
+}
+
+
+#img{
+    width: 15vw;
+    position: absolute;
+    
+}
+
+
